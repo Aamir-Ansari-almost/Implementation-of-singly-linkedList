@@ -1,2 +1,7 @@
 # Implementation-of-singly-linkedList
-Complete code for all the operations performed on Singly Linked LIst
+
+### Contents
+
+1. Note
+2. Algorithms
+3. Code
